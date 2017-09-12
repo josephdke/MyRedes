@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MyRedes</string>
+    <string name="main_textview_user">Juan Perez</string>
+    <string name="main_textview_likes">Likes</string>
+    <string name="main_textview_seg">Seguidores</string>
+    <string name="main_textview_suscrip">Suscriptores</string>
+    <string name="main_textview_notificaciones">Notificaciones</string>
+    <string name="main_textview_sync">Sincronizar</string>
+    <string name="main_button_close_session">Cerrar Sesión</string>
+    <string-array name="main_spinner_sync">
+        <item>Facebook</item>
+        <item>Twitter</item>
+        <item>Instagram</item>
+        <item>Linked In</item>
+        <item>Youtube</item>
+    </string-array>
+</resources>
