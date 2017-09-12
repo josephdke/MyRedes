@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">MyRedes</string>
     <string name="main_textview_user">Juan Perez</string>
-    <string name="main_textview_likes">Likes</string>
+    <string name="main_textview_likes">Likes!</string>
     <string name="main_textview_seg">Seguidores</string>
     <string name="main_textview_suscrip">Suscriptores</string>
     <string name="main_textview_notificaciones">Notificaciones</string>
